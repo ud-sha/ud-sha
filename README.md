@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics using python and sql 
 - 🌱 I’m currently learning Analysing data and ML
 - 💞️ I’m looking to collaborate on anything related to data. 
-- 📫 How to reach me mail : udhayshankar07@gmail.com or insta : iam_udhay
+- 📫 How to reach me insta : iam_udhay
 
 <!---
 ud-sha/ud-sha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
